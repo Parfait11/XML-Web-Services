@@ -8,16 +8,16 @@ Projet Web Service
 
 ### Capture 1
 
-![Capture 1](capture/convertEuroToDh1.png)
+<img src="capture/convertEuroToDh1.png">
 
 ### Capture 2
 
-![Capture 2](capture/convertEuroToDh2.png)
+<img src="capture/convertEuroToDh2.png">
 
 ### Capture 3
 
-![Capture 3](capture/convertEuroToDh3.png)
+<img src="capture/convertEuroToDh3.png">
 
 ### Capture 4
 
-![Capture 4](capture/convertEuroToDhClient.png)
+<img src="capture/convertEuroToDhClient.png">
